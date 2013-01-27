@@ -1,0 +1,8 @@
+{
+    "silent": false,
+    "router": {
+        "127.0.0.1/dropwizard/": "localhost:8080",
+        "127.0.0.1/admin/dropwizard/": "localhost:8081"
+    },
+    "changeOrigin": false
+}
